@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/guavalib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ddmlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/monkeyrunner.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/chimpchat.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sdklib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
